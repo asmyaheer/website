@@ -1,0 +1,148 @@
+ .main-cv .info{    
+    color: #222;
+ 	background-color: #333b52;
+ }
+ .main-cv .info img{
+ 	 -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+       clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    max-width: 200px;
+ 	margin-top: 30px;
+ 	margin-bottom: 50px;
+ }
+  
+ .info .contect h3{
+ 	font-family: 'Roboto', sans-serif;
+ 	background-color: #10bdff;
+ 	color:#ddd;
+ 	padding: 5px
+ }
+ .info ul{
+ 	margin-top: 30px;
+ 	padding-bottom:40px;
+ }
+ .info ul li{
+ 	font-family: 'Roboto', sans-serif;
+ 	margin-left: 10px;
+ 	color: #ddd;
+ 	padding-top: 10px;
+
+ }
+  .info ul li i{
+  	margin-right: 10px;
+  	font-size: 25px;
+  }
+  .progress{
+  	max-width:80%;
+  	margin-top: 10px
+  }
+.progress-bar {
+    height: .6rem;
+    line-height: 1rem;
+    color: #fff;
+    background-color: #adb8c3
+}
+.skill-1  h3{
+ 	font-family: 'Roboto', sans-serif;
+ 	background-color: #47ce78;
+ 	color:#ddd;
+ 	padding: 5px
+ }
+ .skill-1 ul{
+ 	margin-left: 20px;
+ }
+
+
+
+
+
+
+
+
+
+
+ .name  h1{
+ 	font-family: 'Roboto', sans-serif;
+    margin-top: 60px;
+    color: #222;
+ }
+ .name  p{
+ 	font-family: 'Roboto', sans-serif;
+ 	font-size: 20px;
+    color: #464242;
+    margin-left: 10px;
+ }
+ .about {
+ 	margin-top: 50px;
+ 	margin-bottom: 50px
+ }
+ .about h3{
+   color: #f7f5f5;
+ 	width: 200px;
+ 	text-align: center;
+ 	background: #474d55;
+ 	padding: 5px;
+ }
+  .about h3 i{
+  	margin-right:10px 
+  }
+ .about p{
+ 	font-family: 'Roboto', sans-serif;
+ 	font-size: 15px;
+    color:  #524c50;
+    margin-top:20px;
+    margin-left: 10px;
+ }
+ .edecation {
+ 	margin-bottom: 50px;
+ }
+ .edecation h3{
+ 	margin-bottom: 20px;
+   color: #f7f5f5;
+ 	width: 200px;
+ 	text-align: center;
+ 	background: #474d55;
+ 	padding: 5px;
+ }
+  
+ .edecation h3 i{
+  	margin-right:10px 
+  }
+ .edecation blockquote{
+
+ 	font-family: 'Roboto', sans-serif;
+    color:  #524c50;
+ }
+ blockquote{
+  margin-left:60px;
+}
+.project{
+	margin-bottom: 50px;
+}
+ .project h3{
+ 	margin-bottom: 20px;
+   color: #f7f5f5;
+ 	width: 400px;
+ 	padding-left: 20px;
+ 	background: #474d55;
+ 	padding: 5px;
+ }
+  .project h3 i{
+  	margin-right:10px 
+  }
+  .summary {
+  	margin-bottom: 50px;
+  }
+  .summary h3{
+  	margin-bottom: 20px;
+   color: #f7f5f5;
+ 	width: 400px;
+ 	padding-left: 20px;
+ 	background: #474d55;
+ 	padding: 5px;
+ }
+  .summary h3 i{
+  	margin-right:10px 
+  }
+  .summary li{
+  	font-size: 18px;
+  }
